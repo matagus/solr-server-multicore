@@ -1,10 +1,12 @@
-# Multicore Solr Server example
+Multicore Solr Server example
+=============================
 
-This is a *multicore* [Solr Server](http://wiki.apache.org/solr/) sample instance with two cores and a basic config for each one. 
-You must add declarations for each field you need to the schema of the core the field belongs to. Edit multicore/core/core1/schema.xml 
-and multicore/core/core2/schema.xml
+This is a **multicore** [Solr Server](http://wiki.apache.org/solr/) sample instance with two cores and a basic config for each one. 
+You must add declarations for each field you need to the schema of the core the field belongs to. Edit `multicore/core/core1/schema.xml` 
+and `multicore/core/core2/schema.xml`
 
-## Installation / Usage
+Installation / Usage
+--------------------
 
  * Clone this repository or just download your prefered tagged version.
 
