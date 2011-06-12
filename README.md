@@ -12,7 +12,8 @@ Installation / Usage
 
  * Run it:
 
-    cd solr-server-multicore
-    java -Dsolr.solr.home=multicore -server -jar start.jar
+        cd solr-server-multicore
+
+        java -Dsolr.solr.home=multicore -server -jar start.jar
 
  * Go http://localhost:8983/solr/ y play with it using the Solr Admin Interface.
